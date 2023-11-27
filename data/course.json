@@ -1,0 +1,30 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test42-title"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test42-title"
+  },
+  "course_title": "title",
+  "hide_download": false,
+  "course_description": "des",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test42-title"
+  },
+  "learning_resource_types": [],
+  "site_uid": "54e00a56-a547-4d69-a494-fe0cc02c5906",
+  "site_short_id": "test42-id"
+}
